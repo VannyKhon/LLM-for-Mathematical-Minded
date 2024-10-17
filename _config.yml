@@ -1,0 +1,7 @@
+title: "My Blog"
+description: "A blog about language models and mathematics"
+baseurl: "" # Leave empty if using at root (https://<your-username>.github.io/)
+url: "https://<your-username>.github.io" # Replace with your GitHub Pages URL
+theme: minima
+plugins:
+  - jekyll-feed
